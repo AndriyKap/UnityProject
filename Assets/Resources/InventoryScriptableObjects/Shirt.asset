@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 569baf6f72645fb46903cd79eef05f15, type: 3}
+  m_Name: Shirt
+  m_EditorClassIdentifier: 
+  itemName: Shirt
+  maximumAmount: 1
+  itemPrefab: {fileID: 5970417272963694684, guid: 3c7357ee30806ca4eab92292ff049714, type: 3}
+  clothingPrefab: {fileID: 919132149155446097, guid: 1a6b778ab24e51d49b1bd55e5c2eb1c5, type: 3}
+  icon: {fileID: 21300000, guid: 03e1906f0d0fd7948b91368bb1b81915, type: 3}
+  itemType: 4
+  clothType: 2
+  itemDescription: 
+  isConsumeable: 0
+  inHandName: 
+  changeHealth: 0
+  changeHunger: 0
+  changeThirst: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 569baf6f72645fb46903cd79eef05f15, type: 3}
+  m_Name: Pants
+  m_EditorClassIdentifier: 
+  itemName: Pants
+  maximumAmount: 1
+  itemPrefab: {fileID: 4267609084652510378, guid: 78b6418c3e688304783d81bf6b20f9f7, type: 3}
+  clothingPrefab: {fileID: 919132149155446097, guid: 343b078136c197a4eb8242ac6840f6d4, type: 3}
+  icon: {fileID: 21300000, guid: d634cb2ef1a80ef4d9fb7b08178cc3e3, type: 3}
+  itemType: 4
+  clothType: 3
+  itemDescription: 
+  isConsumeable: 0
+  inHandName: 
+  changeHealth: 0
+  changeHunger: 0
+  changeThirst: 0

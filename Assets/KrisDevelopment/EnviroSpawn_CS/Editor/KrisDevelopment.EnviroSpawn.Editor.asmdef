@@ -1,0 +1,17 @@
+{
+    "name": "KrisDevelopment.EnviroSpawn.Editor",
+    "references": [
+        "GUID:77f0e1f6c16079643b6eccf744918a2b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
